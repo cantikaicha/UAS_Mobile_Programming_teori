@@ -1,7 +1,4 @@
 
----
-
-````markdown
 # ChanMovie - Aplikasi Film dan Serial TV
 
 Aplikasi mobile Flutter untuk menjelajahi film dan serial TV terbaru dengan fitur pencarian dan detail lengkap.
