@@ -83,7 +83,7 @@ Aplikasi ini menggunakan The Movie Database (TMDB) API v3 sebagai sumber data ut
    ```bash
    git clone https://github.com/username/chanmovie.git
    cd chanmovie
-````
+   ```
 
 2. Install Dependencies:
 
