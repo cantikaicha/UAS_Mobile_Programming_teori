@@ -19,7 +19,7 @@ ChanMovie adalah aplikasi mobile yang dibangun dengan Flutter untuk platform And
 
 [![Demo Video](https://img.youtube.com/vi/UP5PGvU6RPg/maxresdefault.jpg)](https://youtu.be/UP5PGvU6RPg)
 
-**[Dokumen Google](https://docs.google.com/document/d/1wbFAlnBex3sRCDDQ0zN5Ql13kCaTD5EhoMg1IZDBR-s/edit?pli=1&tab=t.0)**
+**[Dokumen Laporan_UAS](https://docs.google.com/document/d/1wbFAlnBex3sRCDDQ0zN5Ql13kCaTD5EhoMg1IZDBR-s/edit?pli=1&tab=t.0)**
 
 </div>
 
