@@ -1,0 +1,8 @@
+- [ ] Update lib/SectionHomeUi/movie.dart with error handling
+- [ ] Update lib/SectionHomeUi/upcomming.dart with error handling
+- [ ] Update lib/SectionHomeUi/tvseries.dart with error handling
+- [ ] Update lib/DetailScreen/MovieDetails.dart with error handling
+- [ ] Update lib/DetailScreen/TvSeriesDetail.dart with error handling
+- [ ] Update lib/SectionHomeUi/FavoriateList.dart with error handling
+- [ ] Update lib/RepeatedFunction/searchbarfunc.dart with error handling
+- [ ] Update lib/HomePage/HomePage.dart with error handling
